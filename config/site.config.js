@@ -53,7 +53,7 @@ module.exports = {
     },
     {
       name: 'Telegram',
-      link: 'https://t.me/@quangminhneban',
+      link: 'https://t.me/quangminhneban',
     },
     {
       name: 'Twitter',
